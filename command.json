@@ -1,6 +1,6 @@
 {
   "command": {
     "uptime": "https://raw.githubusercontent.com/xnil6x404/SECRETBOT/refs/heads/main/scripts/cmds/uptime.js",
-    "info": "https://pastebin.com/raw/fWCrTrca"
+    "blackbox": "https://raw.githubusercontent.com/xnil6x404/SECRETBOT/refs/heads/main/scripts/cmds/blackbox.js"
   }
 }
