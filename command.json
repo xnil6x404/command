@@ -1,12 +1,16 @@
 {
   "commands": [
     {
-      "uptime": "https://raw.githubusercontent.com/xnil6x404/command/refs/heads/main/uptime.md",
-      "details": "bot uptime check command"
+      "uptime": {
+        "url": "https://raw.githubusercontent.com/xnil6x404/command/refs/heads/main/uptime.md",
+        "details": "bot uptime check command"
+      }
     },
     {
-      "blackbox": "https://raw.githubusercontent.com/xnil6x404/SECRETBOT/refs/heads/main/scripts/cmds/blackbox.js",
-      "details": "ai command"
+      "blackbox": {
+        "url": "https://raw.githubusercontent.com/xnil6x404/SECRETBOT/refs/heads/main/scripts/cmds/blackbox.js",
+        "details": "ai command"
+      }
     }
   ]
 }
