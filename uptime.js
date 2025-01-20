@@ -1,4 +1,3 @@
-```
 module.exports = {
   config: {
     name: "uptime",
@@ -41,4 +40,3 @@ function formatDuration(ms) {
 
   return duration.trim();
 }
-```
