@@ -2,7 +2,7 @@
   "commands": [
     {
       "uptime": {
-        "url": "https://raw.githubusercontent.com/xnil6x404/command/refs/heads/main/uptime.md",
+        "url": "https://raw.githubusercontent.com/xnil6x404/command/refs/heads/main/uptime.js",
         "details": "bot uptime check command"
       }
     },
