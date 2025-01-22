@@ -3,7 +3,7 @@ const axios = require("axios");
 module.exports = {
   config: {
     name: "art2",
-    version: "2.0",
+    version: "2.1",
     role: 0,
     author: "xnil",
     description: "Generate images with Flux.1 Pro",
